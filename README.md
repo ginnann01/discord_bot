@@ -2,7 +2,8 @@
 チャット欄の特定ワードに反応して発言者のボイスチャンネルに突撃して音を鳴らすBOT
 
 # 参考
-公式: [github](https://github.com/Rapptz/discord.py)
+公式: [github](https://github.com/Rapptz/discord.py)  
+tokenのとり方: [Qiita](https://qiita.com/PinappleHunter/items/af4ccdbb04727437477f)  
 
 # 環境構築
 ## Pythonのインストール
