@@ -1,0 +1,36 @@
+folder: "./voices"
+
+passphrases :
+    zako:
+        "はい雑魚ダウン！！！" : "zako_down1.mp3"
+        "雑魚ダウン！！！" : "zako_down2.mp3"
+        "はい卍ぃ！！！ちなみにこれ卍ぅ！！" : "manzi1.mp3"
+        "はい卍ぃ！！！" : "manzi2.mp3"
+    zakod:
+        "はい雑魚ダウン！！！" : "zako_down1.mp3"
+        "雑魚ダウン！！！" : "zako_down2.mp3"
+    fps:
+        "でもfpsやめられないんだけどwwww" : "fps_yame.mp3"
+    ak:
+        "AKちょうだいAK！MAC10とこうかんしよ" : "ak1.mp3"
+        "MAC10と交換しよMAC10と！早くAKよこせお前" : "ak2.mp3"
+        "がんばってじゃねぇよお前オイ！おめぇもがんばんだよ！！！" : "ak3.mp3"
+        "ありがとAK　ありがとね" : "ak4.mp3"
+    imo:
+        "芋ってんな" : "imo.mp3"
+    kasu:
+        "引くこと覚えろカス" : "kasu.mp3"
+    play:
+        "とんでもないプレイがでましたよ！！！" : "tondemo.mp3"
+    oph:
+        "Operation Health" : "oph.mp3"
+
+volumes:
+    zako: 1
+    zakod: 1
+    fps: 0.5
+    ak: 0.5
+    imo: 0.5
+    kasu: 0.5
+    play: 0.75
+    oph: 2
