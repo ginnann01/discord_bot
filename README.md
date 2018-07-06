@@ -36,7 +36,8 @@ Enthought Canopyを起動, "Tools" -> "Canopy Command Prompt"で
 Enthought Canopyを起動 -> "Editor"  
 bot.pyを開く  
 コード下部の"トークンの指定"で  
-token = "Discordから支給されたBOTのtoken"  
+
+	token = "Discordから支給されたBOTのtoken"  
 と指定  
 
 画面上部の実行ボタンを押すと実行  
